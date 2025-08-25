@@ -1,15 +1,7 @@
 using System;
-using System.Collections.Generic;
 
 namespace KratosCore
 {
-    public interface IVariable<T>
-    {
-        string Name { get; }
-        T DefaultValue { get; }
-        Type ValueType { get; }
-    }
-
     public class Variable<T> : IVariable<T>
     {
         public string Name { get; }
