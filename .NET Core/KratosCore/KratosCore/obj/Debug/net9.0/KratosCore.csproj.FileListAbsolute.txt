@@ -1,0 +1,11 @@
+/home/ubuntu/Kratos/.NET Core/KratosCore/KratosCore/bin/Debug/net9.0/KratosCore.deps.json
+/home/ubuntu/Kratos/.NET Core/KratosCore/KratosCore/bin/Debug/net9.0/KratosCore.dll
+/home/ubuntu/Kratos/.NET Core/KratosCore/KratosCore/bin/Debug/net9.0/KratosCore.pdb
+/home/ubuntu/Kratos/.NET Core/KratosCore/KratosCore/obj/Debug/net9.0/KratosCore.GeneratedMSBuildEditorConfig.editorconfig
+/home/ubuntu/Kratos/.NET Core/KratosCore/KratosCore/obj/Debug/net9.0/KratosCore.AssemblyInfoInputs.cache
+/home/ubuntu/Kratos/.NET Core/KratosCore/KratosCore/obj/Debug/net9.0/KratosCore.AssemblyInfo.cs
+/home/ubuntu/Kratos/.NET Core/KratosCore/KratosCore/obj/Debug/net9.0/KratosCore.csproj.CoreCompileInputs.cache
+/home/ubuntu/Kratos/.NET Core/KratosCore/KratosCore/obj/Debug/net9.0/KratosCore.dll
+/home/ubuntu/Kratos/.NET Core/KratosCore/KratosCore/obj/Debug/net9.0/refint/KratosCore.dll
+/home/ubuntu/Kratos/.NET Core/KratosCore/KratosCore/obj/Debug/net9.0/KratosCore.pdb
+/home/ubuntu/Kratos/.NET Core/KratosCore/KratosCore/obj/Debug/net9.0/ref/KratosCore.dll
